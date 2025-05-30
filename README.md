@@ -3,7 +3,6 @@
 
 [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 
 ## Course 1 : [Neural Networks And Deep Learning](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning)
